@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 <!--
-**rajeshpabbati/rajeshpabbati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rajeshpabbati/rajeshpabbati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Machine Learning
+- 🌱 I’m currently learning NLP and CV
+- 👯 I’m looking to collaborate on NLP and CV
+- 🤔 I’m looking for help with better exploring new technologies.
+- 💬 Ask me about Data Science
+- 📫 How to reach me: https://www.linkedin.com/in/rajeshpabbati/
+- 😄 Pronouns: Rajesh
+- ⚡ Fun fact: Netflix
