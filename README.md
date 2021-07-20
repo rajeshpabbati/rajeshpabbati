@@ -10,6 +10,6 @@
 - 👯 I’m looking to collaborate on NLP and CV
 - 🤔 I’m looking for help with better exploring new technologies.
 - 💬 Ask me about Data Science
-- 📫 How to reach me: https://www.linkedin.com/in/rajeshpabbati/ https://github.com/rajeshpabbati/rajeshpabbati/issues/1
+- 📫 How to reach me: https://www.linkedin.com/in/rajeshpabbati/
 - 😄 Pronouns: Rajesh
 - ⚡ Fun fact: Netflix
