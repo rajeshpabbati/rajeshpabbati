@@ -12,7 +12,7 @@
 - 💬 Ask me about Data Science
 - 📫 How to reach me: https://www.linkedin.com/in/rajeshpabbati/
 - <a href="https://www.linkedin.com/in/rajeshpabbati/"> 
-  <img href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
 </a> 
 - 😄 Pronouns: Rajesh
 - ⚡ Fun fact: Netflix
