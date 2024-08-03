@@ -5,9 +5,9 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning NLP and CV
-- 👯 I’m looking to collaborate on NLP and CV
+- 🔭 I’m currently working on Data Science
+- 🌱 I’m currently learning AI and GenerativeAI
+- 👯 I’m looking to collaborate on GenerativeAI
 - 🤔 I’m looking for help with better exploring new technologies.
 - 💬 Ask me about Data Science
 - 📫 How to reach me: 
